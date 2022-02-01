@@ -1,0 +1,26 @@
+.logo{
+    width: 50px;
+}
+.wrapper{
+    /*border: 2px solid #ff2328;*/
+    margin-top: 15%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.create-form{
+    /*border: 2px #bdbdbd solid;*/
+    padding: 6px;
+    width: 100%;
+    height: 100%;
+}
+/*.create-form-img{*/
+/*    width: 450px;*/
+/*    height: 450px;*/
+/*}*/
+.wrapper> img{
+    width: 400px;
+}
+
+
